@@ -1,5 +1,6 @@
 # TAQ_226GB_Data-Cleaning-Sampling-CointegrationTest
 TAQ- June -September 2008 NYSE- Data wrangling 
+
 Part A. Preparing the TAQ Data
 The TAQ Data preparation:
 1. Download the TAQ Data from NYSE. You will ob-
