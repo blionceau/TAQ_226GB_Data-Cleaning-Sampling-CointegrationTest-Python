@@ -30,3 +30,8 @@ c. Based on trade and mid-quote returns: mean return (annualized),
 median return (annualized), standard deviation of return (annual-
 ized), median absolute deviation (annualized), skew, kurtosis, 10
 largest returns, 10 smallest returns.
+
+Part C. Cointegration Test
+The Granger-Engle cointegration test is applied on a matrix of stock returns, and perform efficient computation and updating for pairs trading by implementing a dynamic approach of using data structures in python and algorithms
+for tracking the condition of cointegration in real time.
+
